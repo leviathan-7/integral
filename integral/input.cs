@@ -13,7 +13,7 @@ namespace integral
         public static void Inputfun(out double a, out double b, out int  n,out string s) 
         {
             Console.WriteLine("enter a:");
-            a= double.Parse(Console.ReadLine()); 
+            a= double.Parse(Console.ReadLine());
             Console.WriteLine("enter b:");
             b = double.Parse(Console.ReadLine());
             Debug.Assert(a<=b);
