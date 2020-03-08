@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace integral
 {
-    //процедура ввода данных
+    //процедура ввода данных в программу 
     public class Input
     {
         public static void Inputfun(out double a, out double b, out int  n,out string s) 
